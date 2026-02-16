@@ -214,6 +214,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="row1" show="false"/>
   </connection>
   <note opaque="false" posX="1080" posY="120" sizeHeight="80" sizeWidth="120" text="Le petite texte"/>
+  <note opaque="false" posX="1080" posY="200" sizeHeight="80" sizeWidth="120" text="Second test"/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="0;0;0" show="false"/>
